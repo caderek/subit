@@ -1,0 +1,22 @@
+{
+  "name": "sub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.7",
+    "iconv-lite": "^0.6.3",
+    "npm": "^8.4.1",
+    "yargs": "^17.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.15",
+    "typescript": "^4.5.5"
+  }
+}

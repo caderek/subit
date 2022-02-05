@@ -1,0 +1,554 @@
+{550}{600}The Office [UK/BBC]|[S1E2-Doúwiadczenie Zawodowe]
+{605}{675}T≥umaczenie - astra|(poprawki Pytanka)
+{680}{725}Wsparcie techniczne i duchowe - Cortzas
+{726}{752}Co chcia≥abyú wiedzieÊ?
+{849}{923}Widzisz?|Zegar i kalkulator w jednym.
+{953}{1001}Za darmo. DziÍki.
+{1081}{1121}Patrz na to.
+{1166}{1188}Trzy.
+{1191}{1250}David. Tu Paul Shepherd.|MÛg≥byú do nas przedzwoniÊ?
+{1253}{1285}Nie!
+{1304}{1368}Dave, tu Julian.|MÛg≥byú do nas zadzwoniÊ?
+{1371}{1403}Spadaj!
+{1406}{1453}Fajny facet.|Zabawny.
+{1456}{1490}David, tu znowu Paul...
+{1495}{1539}Daj mi spokÛj!
+{1669}{1713}Wszystko w porzπdku...
+{1716}{1765}Wszystko OK,|nic siÍ nie sta≥o.
+{1768}{1814}Zostawmy to tutaj...
+{1817}{1853}To jest stare biuro.
+{1856}{1895}Chodü, pokaøÍ ci co i jak.
+{1982}{2053}Nikt nie straci pracy.
+{2056}{2139}Tak, gÛra mÛwi o redukcjach,
+{2142}{2184}ale wyraünie powiedzieli,
+{2187}{2278}øe najbardziej dochodowy oddzia≥|przejmie tego drugiego.
+{2281}{2326}My jesteúmy najbardziej|dochodowym oddzia≥em.
+{2329}{2393}Cogito ergo sum -|nie  mogπ nas tknπÊ.
+{2396}{2462}Dlaczego mieliby siÍ martwiÊ?
+{2465}{2505}Ufajπ mi bezgranicznie.
+{2510}{2588}Powiedzia≥em, øe nie bÍdzie zwolnieÒ,|wiÍc to musi byÊ prawda.
+{2591}{2650}Bezwarunkowe zaufanie.|To mi≥e.
+{2653}{2711}Wzajemne. Jednakowe. Obustronne.
+{2714}{2801}MartwiÍ siÍ tylko,|øe si≥y wyøsze
+{2804}{2878}wpadnπ tu nagle|ze swoim kodeksem,
+{2881}{2958}i powiedzπ,|"Chwila, co tu siÍ wyprawia?
+{2961}{3007}Ci ludzie wyglπdajπ jakby siÍ obijali.
+{3010}{3085}Dobrze siÍ bawiπ|w czasie pracy,
+{3088}{3149}a majπ nÛø na gardle.
+{3152}{3210}Tego nie ma w przepisach.|Kto tu jest szefem?
+{3213}{3264}Winny!|StwÛrz nowe przepisy!"
+{3267}{3299}Jasne?
+{3307}{3349}Z øÛ≥wiami to dzia≥a.
+{3388}{3421}OK. Fajnie.
+{3424}{3484}Ta m≥oda dama to Donna...
+{3535}{3616}cÛrka moich najlepszych|przyjaciÛ≥, Rona i Elaine.
+{3619}{3691}Pomieszkuje u mnie,|wiÍc to ja za niπ odpowiadam,
+{3694}{3777}a jej tata ma≥o tego øe jest gliniarzem,|jest teø strasznym gnojkiem.
+{3780}{3814}WiÍc ≥apy precz.
+{3817}{3881}Mam coú, co mog≥aby|skonfiskowaÊ jako dowÛd rzeczowy!
+{3884}{3916}Nie przejmuj siÍ nim.
+{3919}{3982}Chcesz zobaczyÊ niez≥e wyposaøenie?
+{3997}{4046}MÛg≥bym siÍ przejechaÊ jej tunelem!
+{4049}{4083}Wyjdü.
+{4137}{4177}Wyjdü.|MÛwiÍ powaønie.
+{4404}{4436}Wstyd.
+{4645}{4700}Nie bÍdzie|øadnych pogaduszek
+{4703}{4788}o jej tunelu w tym biurze.
+{5024}{5062}OK. PomÛøcie siÍ jej zadomowiÊ.
+{5065}{5124}Jeúli bÍdziesz mieÊ|jakieú problemy z tymi facetami...
+{5127}{5199}- Co powinna zrobiÊ, Dawn?|- Kopa w jaja.
+{5202}{5257}- Och! Feministka.|- ZdjπÊ biustonosz.
+{5260}{5334}- Chcesz wyjúÊ?|- Przepraszam. SpaliÊ biustonosz. Jak feministki.
+{5337}{5369}S≥uszna uwaga.
+{5372}{5436}Oczywiúcie nie zdejmuj koszulki,|jak Charlie Dimmock.
+{5439}{5478}OK. To wszystko.
+{6278}{6344}Co ty robisz?|To jest úmieszne.
+{6427}{6463}S≥ucham,|Wernham Hogg.
+{6507}{6545}ChwileczkÍ,|prze≥πczÍ pana.
+{6550}{6629}To jest...|Nie bÍdzie ci potrzebne.
+{6657}{6715}Tych juø widzia≥aú.|To jest Gareth,
+{6718}{6765}pozna≥aú go na zebraniu.
+{6778}{6818}Oficjalne zapoznanie.
+{6835}{6884}CzeúÊ. Gareth. Witaj.
+{6887}{6931}Uúcisk rÍki wystarczy.
+{6934}{6989}- I Ricky.|- CzeúÊ. Mi≥o ciÍ poznaÊ.
+{7013}{7045}D≥uøej...
+{7048}{7083}I Tim.
+{7086}{7118}- CzeúÊ.|- W porzπdku.
+{7121}{7237}PomÛøcie jej zaczπÊ,| wprowadücie we wszystko,|pokaøcie telefony i tak dalej.
+{7238}{7298}Ale mnie siÍ zdaje,|øe na poczπtek pani potrzebuje krzes≥a.
+{7299}{7331}Øeby usiπúÊ.
+{7358}{7403}Chyba powinna usiπúÊ tutaj.
+{7406}{7464}MÛg≥bym jej pokazaÊ co i jak.
+{7467}{7530}Odpowiadam za to jako lider grupy.
+{7544}{7596}David?|W≥aúnie mÛwi≥em...
+{7617}{7678}Gdy ludzie pytajπ...
+{7681}{7781}"Wolisz øeby myúlano o tobie 'zabawny facet'|czy 'úwietny szef'"
+{7784}{7868}zawsze odpowiadam tak samo -|te dwie rzeczy siÍ wzajemnie nie wykluczajπ.
+{7871}{7966}OprÛcz komizmu mam teø intelekt.
+{7969}{8032}Jeúli poprosi≥byú mnie|o podanie nazwisk trzech geniuszy,
+{8033}{8127}Pewnie nie powiedzia≥bym|Einstein, Newton...
+{8148}{8231}No wiesz.|Powiedzia≥bym Milligan, Cleese, Everett...
+{8253}{8286}Sessions.
+{8434}{8485}Masz na to pozwolenie?
+{8507}{8556}Telefon komÛrkowy, w porzπdku?
+{8559}{8623}MÛg≥byú siÍ zamieniÊ miejscem z Donnπ?
+{8633}{8680}Nie...|Nie ruszam siÍ stπd.
+{8697}{8736}RÛb jak ci kaøÍ.
+{8739}{8787}A co zrobisz, zadzwonisz mnie?
+{8822}{8881}- Jestem liderem grupy.|- Mam to gdzieú.
+{8884}{8916}Jesteú taki dziecinny.
+{8919}{9037}To ostatnia rzecz,|jakπ moøna o mnie powiedzieÊ.
+{9040}{9086}Ma≥y, dziecinny onanista.
+{9211}{9255}- Gareth Keenan.|- Kutas.
+{9315}{9385}- WiÍc...|- David, w≥aúnie mÛwi≥em Timowi...
+{9420}{9456}Wyglπda jak...|Co nie?
+{9459}{9529}- Kabura.|- To tylko mÛj telefon.
+{9532}{9616}- W≥aúnie mÛwi≥em Timowi, øe moøe...|- Coú mi przysz≥o do g≥owy.
+{9682}{9755}Wiem o czym myúlisz,|to by≥o piÍÊ czy szeúÊ rozmÛw?
+{9877}{99463}Musisz sobie zadaÊ pytanie:| "Czy jestem farciarzem?"|WiÍc jesteú, baranie?
+{9968}{10016}- Clint Eastwood.|- Zauwaøy≥em.
+{10085}{10125}Dajmy im spokÛj.
+{10197}{10276}Jesteúmy ca≥y czas on-line.
+{10302}{10353}Pod≥πczeni do globalnej sieci Internetu.
+{10357}{10393}Tylko bez zakupÛw, dobra?
+{10432}{10512}Kaødy ma swoje konto pocztowe.|Uøywa≥aú tego juø?
+{10515}{10560}- Tak.|- Tak, to bardzo proste.
+{10563}{10639}- PokaøÍ jej.|- Tak...
+{10640}{10710}O, w≥aúnie przyszed≥ e-mail.|Widzisz, pisze "nowa wiadomoúÊ".
+{10711}{10744}Po prostu klikasz.
+{10783}{10815}No nie.
+{10818}{10882}Nie, to... to nie jest zabawne.
+{10885}{10956}Donna nie musi mnie oglπdaÊ...
+{10959}{11024}jako kobietÍ z dwoma mÍøczyznami woko≥o.
+{11027}{11064}Masz ≥adne cycki.
+{11067}{11130}Nie, to tylko moja g≥owa. Dokleili jπ tu...
+{11175}{11223}Kto jeszcze widzia≥ to plugastwo?
+{11226}{11275}Dobrze wiecie o czym mÛwiÍ.
+{11443}{11490}Joan, przecieø ty nawet nie masz konta.
+{11492}{11539}Ktoú mi to wydrukowa≥.
+{11576}{11615}Kto to wydrukowa≥ dla Joan?
+{11695}{11756}No tak... Jestem z≥y.
+{11760}{11817}I nie dlatego, øe to przedstawia mnie,
+{11820}{11900}tylko dlatego, øe poniøa kobiety.
+{11919}{11958}A tego nie znoszÍ.
+{11988}{12060}Winowajca, kimkolwiek jest,|jest w tym pomieszczeniu.
+{12063}{12114}Albo winowajczyni.|To moøe byÊ kobieta.
+{12118}{12163}Kobiety sπ tak samo plugawe jak mÍøczyüni.
+{12167}{12222}Bez nazwisk - øadnych takich nie znam -
+{12225}{12286}ale kobiety sπ nieprzyzwoite.
+{12399}{12475}MÛj dobry znajomy|a przy okazji úwietny pehowiec, |Chris Finch...
+{12478}{12566}z IQ wynoszπcym 142,|jeden z najmπdrzejszych facetÛw,|jakich znam.
+{12570}{12631}- Na pewno najmπdrzejszy, jakiego ty znasz.|- Jasne.
+{12634}{12683}Pok≥Ûci≥ siÍ raz z kimú i powiedzia≥ wtedy:
+{12687}{12757}"Jak mogÍ nienawidziÊ kobiet?|Moja mama jest jednπ z nich."
+{12836}{12887}Jasne? MnÛstwo w tym prawdy.
+{12891}{12963}I dlatego, gdy widzÍ takie... úmieci,
+{12977}{13045}Nie jestem z≥y, bo przedstawiajπ one mnie.
+{13061}{13147}- To upodla kobiety.|- I nasze mamy.
+{13152}{13251}W pewnym sensie.|To seksistowskie i nie znoszÍ tego.
+{13254}{13307}- Ja teø nie.|- Tak, ale ja to powiedzia≥em.
+{13308}{13374}Obaj to powiedzieliúmy.|Na zebraniach mÛwiliúmy to obaj.
+{13375}{13442}- Tak, ale ja tego naprawdÍ nie znoszÍ.|- Ja zawsze...
+{13450}{13493}Chodzi o to...
+{13506}{13586}mamy dostÍp do Internetu,|nieograniczony dostÍp.
+{13590}{13627}To dobrze czy üle?
+{13631}{13680}- èle.|- CÛø, nie do nas naleøy ocena.
+{13682}{13733}Wiem tyle, øe mogÍ wpisaÊ w wyszukiwarce...
+{13753}{13786}Seks...
+{13800}{13832}Fetysz...
+{13872}{13915}To chwilkÍ potrwa.
+{13918}{14006}2230 odnoúnikÛw.
+{14027}{14072}Klikam na ktÛrykolwiek.
+{14099}{14131}Och...
+{14134}{14206}"Holenderskie dziewczyny|muszπ byÊ ukarane za wielkie cycki."
+{14210}{14286}Nie karze siÍ kogoú|za posiadanie wielkich cyckÛw.
+{14290}{14337}Jeúli juø, powinny byÊ nagrodzone.
+{14340}{14393}- Powinny mieÊ rÛwne prawa.|- Kobiety majπ rÛwne prawa.
+{14395}{14432}Zawsze to powtarzam...
+{14496}{14543}- Chcesz siÍ pobawiÊ moimi w≥osami?|- Co?
+{14547}{14600}- PobawiÊ w≥osami.|- W porzπdku.
+{14680}{14752}Mam trochÍ gorπce d≥onie, przepraszam.
+{14755}{14810}To nic.|Tylko nie dotykaj mojej g≥owy.
+{14880}{14929}To wszystko jest...
+{14971}{15002}CÛø...
+{15042}{15073}Donna.
+{15077}{15130}Co nie?|Odpowiadam za niπ.
+{15133}{15201}Jest daleko od domu.|A faceci to faceci.
+{15240}{15275}OdgÛrny rozkaz brzmi...
+{15290}{15327}- £apy precz.|- Tak.
+{15331}{15368}- WstÍp wzbroniony.|- Tak.
+{15372}{15448}- Patrz, ale nie dotykaj.|- Jak to patrz?
+{15453}{15500}Rozmawiaj z niπ, bπdü mi≥y...
+{15503}{15567}- Niech nic ci nie chodzi po g≥owie.|- Tak, dobrze.
+{15593}{15624}Dobra.
+{15675}{15724}A co jeúli ona tego chce?
+{15752}{15791}Trzeba to jakoú rozwiπzaÊ.
+{15794}{15837}- W co siÍ teraz pobawimy?|- Nie wiem.
+{15864}{15928}Popytaj.|Dowiedz siÍ, kto zrobi≥ to zdjÍcie.
+{15932}{15981}- Dyskretnie.|- Potajemnie.
+{15985}{16076}Nie oskarøaj nikogo pochopnie.
+{16080}{16111}OK?
+{16115}{16179}Szkolili mnie do tego.|Gdy by≥em w Armii.
+{16183}{16238}- Terytorialnej.|- Armii Terytorialnej.
+{16242}{16287}Dobra, niewaøne.
+{16291}{16359}OK.|BÍdÍ potrzebowa≥ to i owo.
+{16363}{16394}Na przyk≥ad?
+{16413}{16444}Biuro.
+{16448}{16547}- Moøesz uøyÊ pokoju narad.|- MogÍ go nazywaÊ moim biurem, prawda?
+{16554}{16585}Co?
+{16589}{16649}MogÍ mÛwiÊ "Przyjdü do mojego biura"?
+{16653}{16698}Tak, dopÛki bÍdziesz siÍ tym zajmowa≥.
+{16701}{16734}W porzπdku.
+{16737}{16797}- ZrobiÍ napis.|- Nie potrzebujesz napisu.
+{16801}{16900}A jeúli bÍdÍ potrzebowa≥ |pokoju narad na zebranie,|to jest to z powrotem pokÛj narad.
+{16904}{16976}- Dobra. Wtedy zdejmÍ napis.|- Nie potrzebujesz napisu.
+{16979}{17024}Nie rÛb napisu.
+{17052}{17087}Gareth Keenan.
+{17091}{17147}- Kto to?|- Nikt.
+{17317}{17391}Nie, pomy≥ka.|Do widzenia.
+{17406}{17441}To wyglπda tak.
+{17444}{17494}W lewo, w prawo, przeskok.
+{17498}{17550}Ding ding da!
+{17554}{17604}Tak, ale ja nigdy nie mÛwi≥em...
+{17608}{17667}Dok≥adnie tak jak w "Thrillerze".
+{17752}{17800}- W≥aúnie tak .|- Witam, panie Jackson.
+{17804}{17876}Wiem, øe jest pan gwiazdπ,|ale wys≥a≥ juø pan moøe ten faks?
+{17941}{17994}S≥yszeliúcie moøe...|czy s≥yszeliúcie...
+{17998}{18039}Nowπ piosenkÍ|Michaela Jacksona?
+{18042}{18112}Po≥πczy≥ si≥y z West Ham United.
+{18116}{18164}I úpiewa "I'm Forever Blowing Bubbles"!
+{18302}{18389}Ona siÍ nie zna na pi≥ce.|Wyt≥umaczcie jej to pÛüniej.
+{18393}{18462}A s≥yszeliúcie ostatnie nagranie|George'a Michaela?
+{18466}{18546}- Nie.|- Jego najnowsza piosenka. Jest o...
+{18550}{18610}- O obciπganiu?|- Tak. Ale w toalecie wali≥ konia.
+{18614}{18670}Chodzi ci o "Wank Me Off|Before You Go Go"?
+{18811}{18875}Co to jest:|bia≥e i sp≥ywa po úcianie w toalecie?
+{18879}{18945}- Nie wiem.|- Ostatnie dzie≥o Michaela Jacksona.
+{18948}{18985}George'a Michaela.
+{19034}{19072}Dobre, co nie?
+{19074}{19137}- Potrafisz odstawiÊ "ksiÍøycowy krok"?|- Pewnie juø nie.
+{19138}{19191}- SprÛbuj|- Tak... kiedyú...
+{19195}{19263}- PiÍty do ty≥u.|- Na tym siÍ nie da.
+{19266}{19360}O, juø pamiÍtam.|Tak teø potrafi≥em.
+{19403}{19503}Potrafi≥em tak robiÊ.|Ca≥kowicie panowaÊ nad cia≥em.
+{19507}{19544}Potem tak, co nie?
+{19548}{19594}- ZajÍci?|- Tak...
+{19598}{19630}Podnosimy morale.
+{19634}{19677}- Moøemy pogadaÊ?|- Tak.
+{19879}{19929}Keith, Keith, Keith, Keith, Keith...
+{19935}{19967}DziÍki, øe przyszed≥eú.
+{19987}{20082}Wiesz, o co biega.|Rzecz jasna widzia≥eú zdjÍcie.
+{20086}{20138}- Davida, na komputerze...|- Widzia≥em.
+{20142}{20202}Wszyscy trochÍ poúmialiúmy.
+{20206}{20241}- To by≥o zabawne.|- Tak.
+{20245}{20311}Ale teraz koniec øartÛw.
+{20334}{20373}Bo to nie tylko uw≥aczajπce...
+{20389}{20451}David zaufa≥ mi w tej sprawie, poniewaø...
+{20472}{20523}wiem jak postÍpowaÊ z ludümi,
+{20526}{20600}a do tego wiem,|jak przeprowadzaÊ tajne operacje.
+{20624}{20693}"Pomalutku pocichutku z≥ap ma≥peczkÍ".
+{20727}{20802}MÛg≥bym z≥apaÊ ma≥pÍ.|Gdybym umiera≥ z g≥odu.
+{20805}{20885}Robi≥bym zatrute strza≥y|z jadu úmiercionoúnych øab.
+{20898}{21008}Jeden miligram takiej trucizny|moøe zabiÊ ma≥pÍ. Albo cz≥owieka.
+{21011}{21077}Jeúli ciÍ zrani,|nastÍpnego dnia bÍdziesz martwy.
+{21080}{21113}Albo pÛüniej.
+{21116}{21160}RÛøne øaby, rÛøny czas úmierci.
+{21172}{21241}Czy wiesz, kto zrobi≥ to zdjÍcie?
+{21244}{21276}Taa.
+{21279}{21313}To znaczy nie.
+{21359}{21433}Twoja pierwsza odpowiedü brzmia≥a "tak".
+{21436}{21490}- Prawda?|- Chcia≥em powiedzieÊ "nie".
+{21500}{21590}- To dlaczego powiedzia≥eú...?|- Ja... eghm... nie wiem.
+{21593}{21637}Denerwujesz siÍ?
+{21640}{21683}Nie. To znaczy tak.
+{21716}{21750}To ciekawe...
+{21755}{21862}SpÍdzi≥am dwa ostatnie dni w Swindon.|Neil dokona≥ tam bardzo powaønych zmian.
+{21865}{21911}Kiedy rozmawia≥am z tobπ w piπtek,
+{21914}{22003}powiedzia≥eú, øe masz zamiar|wprowadziÊ zmiany. I jak?
+{22035}{22090}- åwietnie.|- Wspaniale. Co zrobi≥eú?
+{22138}{22179}Zmieni≥em bardzo wiele rzeczy.
+{22182}{22249}Wprowadzi≥em rewolucyjne zmiany
+{22250}{22304}w zakresie zarzπdzania firmπ.
+{22306}{22397}Przepraszam David, ale to brzmi jak menedøerska gadka.|A ty tego nie znosisz.
+{22398}{22439}To prawda...
+{22442}{22534}Moøesz podaÊ piÍÊ konkretnych rzeczy,|ktÛre uda≥o ci siÍ ulepszyÊ?
+{22537}{22586}- PiÍÊ rzeczy?|- Tak.
+{22589}{22678}Podam ci trzy i zobaczymy,|czy bÍdziesz potrzebowaÊ kolejnych dwÛch.
+{22683}{22715}OK.
+{22743}{22836}WydajnoúÊ. Obroty. RentownoúÊ.
+{22839}{22896}To wciπø brzmi jak menedøerska gadka.
+{22899}{22946}- Nie, poniewaø...|- Nie znosisz tego.
+{22978}{23047}- PowiedzieÊ ci co zrobi≥ Neil?|- Dobra.
+{23050}{23098}Zamrozi≥ podwyøki p≥ac.
+{23101}{23146}Upora≥ siÍ z nadgodzinami.
+{23149}{23228}Kaødy wydatek powyøej 100 funtÛw|musi byÊ przez niego zatwierdzony.
+{23231}{23308}100? Ja mia≥em zatwierdzaÊ od 90,|ale 100 teø jest w porzπdku.
+{23311}{23375}I zaczπ≥ zwalniaÊ ludzi, David.
+{23378}{23431}- To tylko cztery.|- Niewaøne.
+{23434}{23481}Zaczπ≥eú zwolnienia?
+{23484}{23550}Dziú rano w przemÛwieniu|do mojego personelu...
+{23551}{23605}zapewni≥em, øe nie bÍdzie|øadnych obniøek p≥ac,
+{23606}{23652}a juø na pewno nie bÍdzie zwolnieÒ.
+{23655}{23733}- Dlaczego tak zrobi≥eú?|- Dlaczego? Och, pomyúlmy...
+{23736}{23816}W moim menedøerskim s≥owniku|jest taki wyraz jak "morale".
+{23819}{23898}Ich morale z pewnoúciπ bardziej ucierpi| dlatego, øe bÍdπ zwolnienia,
+{23899}{23975}a ty powiedzia≥eú im, øe nie stracπ pracy.
+{24069}{24109}Nie bÍdπ pamiÍtaÊ.
+{24159}{24191}I rÍce...
+{24194}{24228}- A teraz tak...
+{24231}{24264}O tak?
+{24267}{24306}Juø wiem...
+{24374}{24444}David, bÍdÍ z tobπ szczera,|zwolnienia sπ nieuniknione.
+{24445}{24535}Jeúli sobie z tym nie poradzisz,|ja, jako twÛj szef, mogÍ zrobiÊ to za ciebie.
+{24536}{24621}Tutaj nie jesteú szefem,|a ja juø zrobi≥em ciÍcia.
+{24624}{24679}- Zrobi≥eú ciÍcia?|- Tak.
+{24682}{24734}Nie chcia≥em mÛwiÊ ludziom, ale tobie...
+{24737}{24772}CiÍcia gdzie?
+{24795}{24827}Personel.
+{24830}{24871}Przeprowadzi≥eú redukcjÍ?
+{24874}{24906}Tak.
+{24909}{24953}- Zwolni≥eú kogoú?|- Tak.
+{24956}{24991}Kogo?
+{25022}{25054}Julie.
+{25057}{25099}Gdzie ona pracuje?
+{25162}{25195}W magazynie.
+{25198}{25235}Czym siÍ zajmuje?
+{25261}{25362}Jest pracownikiem magazynowym...|w magazynie. To znaczy by≥a...
+{25365}{25446}Myúla≥am, øe znam tam wszystkich.|Jak ma na nazwisko?
+{25481}{25516}Nazwisko?
+{25553}{25593}Anderton.
+{25614}{25724}To sπ napisy,|ktÛre Gareth zrobi≥ na drzwi.
+{25727}{25804}Zaczπ≥ od "POK”J PRZES£UCHA—"
+{25826}{25873}Potem by≥o "BIURO PRZES£UCHA—"
+{25876}{25923}"POK”J DOCHODZENIOWY"...
+{25933}{25985}"BIURO DOCHODZENIOWE"...
+{25988}{26022}Tu siÍ wúciek≥...
+{26025}{26106}"CISZA! åLEDZTWO W TOKU!"
+{26154}{26249}"CISZA. DOCHODZENIE" To straszne.
+{26252}{26333}W koÒcu wybra≥ to:|"POK”J PRZES£UCHA— I NARAD."
+{26336}{26409}To ma sens.|MÛj ulubiony to...
+{26435}{26492}"GARETH KEENAN PRZES£UCHUJE!."
+{26600}{26668}- Ja tu prÛbujÍ pracowaÊ.|- Przepraszam, stary.
+{26669}{26730}- Jak tam úledztwo?|- Dobrze.
+{26733}{26767}To úwietnie.
+{26770}{26816}Potrzebujesz moøe zastÍpcy?
+{26819}{26880}Nie. Juø mam.
+{26958}{26993}W porzπdku, Sheila?
+{27025}{27059}Bπdücie ciszej.
+{27283}{27327}To jest przeraøajπce, David.
+{27330}{27402}Nie kupuj juø øadnych materia≥Ûw.
+{27405}{27496}Na pewno mÛg≥byú jeszcze z kogoú stπd zrezygnowaÊ.|Kto jest brygadzistπ?
+{27529}{27563}Taffy!
+{27578}{27610}Taffy!
+{27632}{27666}- Glynn!|- Co?
+{27704}{27745}MÛwimy na niego Taffy.
+{27757}{27831}Chodzi o to, øe dla mnie|wszyscy oni sπ niezastπpieni.
+{27834}{27899}Jesteúmy jak jeden wielki organizm|wielkiego zwierzÍcia.
+{27902}{27976}Rozumiesz? Goúcie na gÛrze przy telefonach - to usta.
+{27979}{28035}Ludzie tam - rÍce.
+{28038}{28094}- A ty czym jesteú?|- Dobre pytanie.
+{28096}{28134}Pewnie poczuciem humoru.
+{28325}{28403}OdpowiedzialnoúÊ to ciÍøka sprawa...
+{28406}{28541}Ludzie patrzπ na mnie i mÛwiπ|"On jest twardy. By≥ w wojsku.
+{28546}{28623}Na pewno jest szorstki.|Trzyma siÍ przepisÛw."
+{28626}{28658}Ale...
+{28675}{28744}jestem opiekuÒczy i wraøliwy.
+{28778}{28832}Prawda øe "Lista Schindlera" to wspania≥y film?
+{28852}{28884}Tak.
+{28920}{28997}Widzisz? Ludzie myúlπ,|øe silny facet nie moøe byÊ wraøliwcem.
+{29000}{29063}Ale ja jestem troskliwy i czu≥y...
+{29066}{29104}Przepraszam, ale o co tutaj chodzi?
+{29107}{29184}O zdjÍcie Davida z dwoma facetami|spuszczajπcymi siÍ na niego.
+{29187}{29227}Obaj siÍ na niego spuszczali?
+{29230}{29286}Myúla≥am, øe jednemu z nich obciπga≥.
+{29305}{29337}Nie sπdzÍ...
+{29391}{29434}SpÛjrz, spuszczajπ siÍ.
+{29456}{29492}To nie moja sprawka.
+{29495}{29537}Dobrze, w porzπdku.
+{29554}{29612}CieszÍ siÍ, øe sobie porozmawialiúmy.
+{29615}{29711}Nie chcÍ, øebyú myúla≥a|o mnie jako o swoim szefie...
+{29714}{29749}Bo nim nie jesteú.
+{29750}{29803}Jestem wyøej od ciebie,|wiÍc jestem szefem.
+{29820}{29910}Chodzi o to: nie myúl o mnie jak o szefie,
+{29915}{30001}ale wiedz, øe nim jestem.|- Nie sπdzÍ.
+{30002}{30075}Jestem liderem grupy, wiÍc jestem szefem.|Jestem wyøej od ciebie.
+{30173}{30205}Gareth Keenan.
+{30213}{30266}Nie, naprawdÍ,|przestaÒ w tej chwili!
+{30391}{30453}Tak, miewa≥em biurowe romanse.
+{30456}{30488}Ca≥e mnÛstwo.
+{30491}{30549}Nie tu, w innym miejscu pracy.
+{30552}{30592}£adne dziewczyny teø.
+{30595}{30686}Ale to naprawdÍ z≥y pomys≥.|Biurowe romanse.
+{30689}{30744}To jak sranie na wycieraczkÍ.
+{30756}{30822}Mia≥em mnÛstwo propozycji tutaj,|ale zawsze odmawiam.
+{30825}{30907}To rozprasza.|I jest to jeden z g≥Ûwnych argumentÛw
+{30910}{30960}przeciwko pozwoleniu|gejom na s≥uøbÍ wojskowπ.
+{30963}{31008}Ja nie mia≥em z tym problemu.
+{31011}{31078}Gej mnie nie rozproszy.|PotrafiÍ sobie poradziÊ.
+{31081}{31130}Ale jeúli trwa≥aby bitwa...
+{31133}{31203}a on patrzy≥by|na wroga albo na mnie...
+{31206}{31264}i myúla≥ "Oooh...
+{31267}{31345}≥adniutko wyglπda w tym mundurze".
+{31374}{31409}Nie jestem homofobem.
+{31412}{31460}Wystarczy spojrzeÊ|na mojπ kolekcjÍ CD.
+{31461}{31538}Queen, George Michael,|Pet Shop Boys.
+{31541}{31580}Oni wszyscy to cioty.
+{31711}{31780}Jak tam ch≥opcy?|Co oglπdacie?
+{31796}{31860}- MÛj pies rypie jego psa.
+{31863}{31957}Glynn, David na pewno ci powiedzia≥,|øe stracisz czÍúÊ personelu.
+{31958}{31999}To zabawne,|patrz na jego twarz!
+{32042}{32130}Przepraszam, øe przerywam.|Myúlisz, øe moøemy jeszcze kogoú zwolniÊ?
+{32133}{32183}- Wiem, øe straci≥eú Julie Anderton.|- Kogo?
+{32185}{32252}- Czyli mam k≥opoty.|- Julie. David jπ zwolni≥.
+{32254}{32295}- Nigdy o niej nie s≥ysza≥em.|- LojalnoúÊ.
+{32296}{32356}Gdy ktoú odchodzi,|tak jakby przestaje istnieÊ.
+{32359}{32395}Ona nigdy nie istnia≥a, prawda?
+{32398}{32439}- No cÛø...|- Wymyúli≥eú jπ.
+{32442}{32497}ZapÍdzi≥aú mnie w kozi rÛg|i musia≥em coú odegraÊ...
+{32500}{32550}- Sk≥ama≥eú.|- To forma gry.
+{32553}{32602}Moøecie iúÊ sobie na gÛrÍ?|Jesteúmy zajÍci.
+{32605}{32673}- Nie wyglπdacie.|- Chcesz, øebym siÍ czymú zajπ≥, kochanie?
+{32676}{32708}S≥ucham?
+{32711}{32756}LecÍ na takie paniusie.
+{32759}{32794}- Na s≥owo.|- Tak.
+{32860}{32896}To by≥o trochÍ nie na miejscu.
+{32899}{32933}Wcale nie mam k≥opotÛw.
+{32936}{32985}Ona potrzebuje porzπdnego rypanka!
+{32988}{33060}Ca≥kiem moøliwe,|øe bÍdÍ musia≥ siÍ tym zajπÊ. Na razie.
+{33123}{33158}A wiÍc. Was dwoje.
+{33188}{33229}Dawn i Tim.
+{33260}{33305}Czego chcesz, Gareth?
+{33319}{33385}Zlecono mi odszukanie osoby,|ktÛra zrobi≥a to zdjÍcie.
+{33390}{33433}I kto to zrobi≥?
+{33436}{33489}- Nie wiem.|- Wyrzucπ ciÍ?
+{33492}{33538}- Czy mnie wyrzucπ?|- Skoro nie wiesz.
+{33541}{33631}W≥aúnie prowadzÍ úledztwo.|Czy zrobi≥o to ktÛreú z was?
+{33634}{33671}Tak. Chryste, niez≥y jesteú.
+{33674}{33709}- NaprawdÍ?|- Nie!
+{33712}{33744}Wiedzia≥em.
+{33747}{33802}Nie zwolniÍ was,|jeúli cokolwiek wiecie,
+{33805}{33837}poniewaø...|- Nie mÛg≥byú.
+{33840}{33876}- MÛg≥bym.|- Jak?
+{33879}{33936}Powiedzia≥bym:|"Zwalniam ciÍ. Sprzπtnij biurko".
+{33939}{33987}Ja bym powiedzia≥,|øe nie masz uprawnieÒ.
+{33990}{34023}Nieprawda, nieprawda.
+{34026}{34082}Poniewaø w tym pokoju,|mam specjalne...
+{34085}{34139}- Potrzeby?|- Nie. Jestem cz≥owiekiem...
+{34140}{34198}- specjalnej troski?|- Nie, i to nie jest zabawne.
+{34199}{34266}- Nie zwolniÍ was, poniewaø...|- Nie mÛg≥byú.
+{34269}{34303}To wszystko.
+{34556}{34614}Oni nie szanujπ nikogo,|to nie do uwierzenia.
+{34617}{34696}Nie tylko podkopali twÛj autorytet...
+{34699}{34746}Wejdü Gareth.
+{34749}{34800}...ale podsunÍli mi obraz ciebie,
+{34803}{34864}nagiej i na czworakach,
+{34869}{34936}posuwanej na pieska.
+{34950}{34982}David!
+{35029}{35086}- Kontynuuj.|- O co chodzi?
+{35089}{35133}Znalaz≥em winowajcÍ.
+{35136}{35193}- Doprawdy?|- To nie moøe poczekaÊ, David?
+{35204}{35236}W≥aúciwie moøe,
+{35239}{35318}ale jeúli ci powiem,|øe seksistowska pornografia
+{35321}{35382}krπøy po tym biurze,|chcia≥abyú, øeby to poczeka≥o?
+{35385}{35418}Pornografia?
+{35421}{35485}- Kto to zrobi≥?|- Uwaga, niespodzianka. Tim.
+{35512}{35569}Szkoda. Fajny facet.|Jesteú pewien?
+{35572}{35651}Znalaz≥em te zdjÍcia|na jego dysku.
+{35654}{35695}Wyniki úledztwa...
+{35698}{35760}zleconego przez, prowadzonego przez...
+{35800}{35832}O nie.
+{35851}{35927}Nie chcÍ, øebyú to oglπda≥.|Sam nie chcÍ tego oglπdaÊ.
+{35949}{35996}To jest gorsze od poprzedniego.
+{36016}{36078}Mam nadziejÍ, øe nie ma wiÍcej.|Jest wiÍcej.
+{36081}{36161}MuszÍ go zwolniÊ dyscyplinarnie,
+{36164}{36230}poniewaø gdy trzeba wprowadziÊ pos≥uch,
+{36233}{36316}úmiech na chwilÍ milknie,|ale potem znÛw rozbrzmiewa.
+{36319}{36374}Wszystko wraca do normy.
+{36377}{36418}Tak jest wszÍdzie.
+{36421}{36466}Jak siÍ dowiedzia≥eú?
+{36469}{36538}Podejrzewa≥em,|øe zdjÍcia pochodzπ z Internetu,
+{36541}{36584}wiÍc sprawdzi≥em|wszystkie komputery.
+{36589}{36661}Po kaødej stronie,|jakπ odwiedzasz, pozostaje úlad.
+{36664}{36729}Po prostu uruchamiasz przeglπdarkÍ|i sprawdzasz historiÍ.
+{36732}{36821}- Nie warto...|- To potrwa tylko chwilÍ.
+{36824}{36881}W sumie nie chcÍ|wiedzieÊ jak to siÍ robi.
+{36884}{36979}Moøna usunπÊ tπ historiÍ?|Chyba powinniúmy.
+{36982}{37048}- David, to jest spotkanie.|- Tak, tak.
+{37051}{37117}OK. To wszystko.|Coú jeszcze?
+{37120}{37162}Taffy z magazynu dzwoni≥.
+{37165}{37209}- Ma dla ciebie wideo.|- DziÍki.
+{37210}{37279}- To po prostu jedna wielka zgraja ma≥ych ch≥opcÛw!|- Nie zupe≥nie.
+{37280}{37335}Chorzy faceci|i ich chore dowcipy.
+{37338}{37379}Dzisiaj mia≥am tego|piÍkny przyk≥ad!
+{37382}{37437}Nie chcÍ siÍ wiÍcej znaleüÊ|w takiej pozycji.
+{37440}{37480}Nie schodü do magazynu.
+{37483}{37552}Nie mÛw mi, gdzie mogÍ, |a gdzie nie mogÍ iúÊ|w mojej w≥asnej firmie.
+{37555}{37629}Stπpasz po cienkim lodzie.|Ok≥ama≥eú mnie dzisiaj.
+{37632}{37664}O co ci chodzi?
+{37667}{37735}Nie masz jaj øeby robiÊ to,|co do ciebie naleøy.
+{37738}{37775}Nie mam jaj?
+{37778}{37872}Jeúli sobie nie radzisz z w≥asnπ robotπ,|zrobiÍ jπ za ciebie.
+{37875}{37907}Nie radzÍ sobie?
+{37943}{37975}OK.
+{37994}{38030}Chodü tu.
+{38241}{38277}ZajÍty pracπ?
+{38302}{38357}- Jest jakiú problem?|- Tak. Taki.
+{38384}{38420}Co to jest?
+{38423}{38521}Nie wiem. Zboczone zdjÍcie|z mojπ g≥owπ, jako obiektu seksualnego.
+{38545}{38614}I nie...|Wiesz, øe lubiÍ dobrπ zabawÍ.
+{38653}{38737}Zabawa w porno|nie jest úmieszna, jasne?
+{38742}{38807}- Jestem rozczarowany.|- Myúlisz, øe ja to zrobi≥em?
+{38812}{38844}Sprawa zamkniÍta.
+{38847}{38909}Chyba ja to powinienem powiedzieÊ,|to by≥o moje úledztwo.
+{38927}{39006}Wkurza mnie to,|øe oczywiúcie nie zrobi≥eú tego |w wolnym czasie.
+{39011}{39085}Chwila.|Nasz Colombo to odkry≥, prawda?
+{39088}{39191}No tak, pewnie øe jestem winny,|przecieø twÛj najlepszy cz≥owiek zajmowa≥ siÍ tπ sprawπ.
+{39194}{39251}PrzestaÒ siÍ wyg≥upiaÊ|chociaø na chwilÍ i pos≥uchaj.
+{39256}{39342}PrzestaÒ wykorzystywaÊ|moje przyjazne usposobienie.
+{39345}{39417}MogÍ siÍ zachowaÊ|jak kaødy inny szef w tej sytuacji.
+{39420}{39452}OK? Jasne?
+{39455}{39533}Przeginasz,|a ja mam tego dosyÊ.
+{39536}{39621}David, ja tego nie zrobi≥em!|To twÛj dobry znajomy Chris Finch.
+{39668}{39707}Uøywa≥ mojego komputera.
+{39710}{39796}Powiedzia≥, øe jest |twoim najlepszym kumplem|i øe siÍ z tego uúmiejesz.
+{39838}{39912}Jasne, jak norka!
+{39915}{39985}To niewiarygodnie zabawne...
+{40028}{40075}Masz zamiar przeprosiÊ Tima?
+{40076}{40165}To tak jak w rodzinie.|Nie trzeba nikogo przepraszaÊ.
+{40212}{40273}Czy masz zamiar przeprosiÊ Tima?
+{40276}{40320}W pewnym sensie|juø to zrobi≥em...
+{40323}{40381}- Czy masz zamiar go przeprosiÊ?|- Tak!
+{40561}{40619}P-p-p... przepraszam za to.
+{40645}{40702}Nieüle go kry≥eú.
+{40705}{40750}By≥eú w to zamieszany,|ale kry≥eú.
+{40753}{40803}Nie chcÍ tu byÊ|jak bÍdziesz wymyúla≥ Finchiemu.
+{40804}{40861}Nie bÍdziesz. To nie w porzπdku.|Ciebie teø nie bÍdzie.
+{40862}{40920}WiÍc nagle|to przesta≥o byÊ obraüliwe?
+{40923}{41027}Nie rozwÛdümy siÍ nad tym,|czy to jest czy nie jest czy moøe...
+{41032}{41094}Po prostu przestaÒmy|poniøaÊ kobiety.
+{41097}{41171}Poøartujmy z nimi,|a nie z nich.
+{41174}{41223}Poøartujmy w pracy,
+{41226}{41285}z kobietami...|na nasz temat.
+{41288}{41375}I powiesz Chrisowi Finchowi,|øe nie bÍdzie z nami d≥uøej pracowa≥?
+{41378}{41446}åwietny pomys≥, pozbÍdÍ siÍ|dobrego pracownika z powodu g≥upiego øartu.
+{41447}{41526}- David, nawet nie zaczynaj.|- Nie, nie, w porzπdku.
+{41529}{41579}Polecenie z gÛry.
+{41649}{41734}CzeúÊ Chris. Tu David.|Z≥e wieúci, kolego.
+{41737}{41813}Musimy ciÍ zwolniÊ.|Nie moøemy ciÍ d≥uøej zatrudniaÊ.
+{41816}{41854}Z powodu øartu.
+{41857}{41939}Mam poczucie humoru|ale to by≥o obraüliwe w stosunku do kobiet,
+{41942}{42006}i nie mogÍ tego tolerowaÊ.|BÍdÍ to musia≥ przekazaÊ...
+{42009}{42118}Jest godzina 16:21,
+{42123}{42162}40 sekund.
+{42194}{42230}- Øa≥osne.|- NaprawdÍ?
+{42233}{42300}Jest godzina 16:21,
+{42305}{42396}50 sekund.
+{42703}{42741}Ma ktoú dobrπ godzinÍ?
+{42905}{42999}# Co pozostanie z ciebie, kochanie,
+{43042}{43159}# Gdy pozbawiπ ciÍ
+{43168}{43227}# Torebek i úwiecide≥ek
+{43230}{43289}# Na ktÛre twÛj dziadek
+{43292}{43339}# Musia≥ tak ciÍøko harowaÊ
+{43374}{43469}Gareth to przyg≥up.
+{43475}{43600}pytanka@gmail.com
