@@ -6,7 +6,7 @@ import main from "./actions/main";
 
 program
   .name("subit")
-  .version("0.1.0")
+  .version("0.2.0")
   .description(
     stripIndent`
     Subtitles shifter and converter
