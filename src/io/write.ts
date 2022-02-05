@@ -1,9 +1,8 @@
 import fs from "fs";
-import path from "path";
+import iconv from "iconv-lite";
 
-const write = (name: string, dir: string, ext: string, text: string) => {
-  const out = path.join(dir, [name, ext].join("."));
-  fs.writeFileSync(out, text);
+const write = (out: string, text: string, encoding: string) => {
+  fs.writeFileSync(out, iconv.encode(text, encoding));
 };
 
 export default write;

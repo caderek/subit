@@ -4,9 +4,9 @@ import { fromMilliseconds, toMilliseconds } from "./time";
 const fromSRT = (srt: string) => {
   return srt
     .trim()
-    .split("\n\n")
+    .split(/\r?\n\r?\n/)
     .map((entry: string) => {
-      const [_, time, ...lines] = entry.split("\n");
+      const [_, time, ...lines] = entry.split(/\r?\n/);
       const [from, to] = time.split(" --> ");
 
       return {

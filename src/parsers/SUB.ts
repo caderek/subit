@@ -4,7 +4,7 @@ import { framesFromMilliseconds, framesToMilliseconds } from "./time";
 const fromSUB = (sub: string, frameRate = 23.98) => {
   const entries = sub
     .trim()
-    .split("\n")
+    .split(/\r?\n/)
     .map((line) => {
       const [rawFrom, rawTo] = line.match(/{\d+}/g) ?? [];
       const text = line.replace(/{\d+}/g, "").replace("|", "\n");
@@ -20,11 +20,13 @@ const fromSUB = (sub: string, frameRate = 23.98) => {
 };
 
 const toSUB = (entries: Entry[], frameRate = 23.98) => {
-  return entries.map(({ from, to, text }) => {
-    const fromFrame = framesFromMilliseconds(from, frameRate);
-    const toFrame = framesFromMilliseconds(to, frameRate);
-    return `{${fromFrame}}{${toFrame}}${text.replace("\n", "|")}`;
-  });
+  return entries
+    .map(({ from, to, text }) => {
+      const fromFrame = framesFromMilliseconds(from, frameRate);
+      const toFrame = framesFromMilliseconds(to, frameRate);
+      return `{${fromFrame}}{${toFrame}}${text.replace("\n", "|")}`;
+    })
+    .join("\n");
 };
 
 export { fromSUB, toSUB };

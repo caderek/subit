@@ -2,18 +2,13 @@ import iconv from "iconv-lite";
 import fs from "fs";
 import path from "path";
 
-const encodings: { [key: string]: string } = {
-  pl: "win1250",
-  en: "utf8",
-};
-
-const read = (src: string, encoding = null) => {
+const read = (src: string, encoding: string) => {
   const { name, ext, dir } = path.parse(src);
   const lang = name.split(".")[1] ?? "en";
   const bytes = fs.readFileSync(src);
-  const content = iconv.decode(bytes, encoding ?? encodings[lang] ?? "utf8");
+  const content = iconv.decode(bytes, encoding);
 
-  return { content: content.slice(0, 20), name, dir, ext, lang };
+  return { content, name, dir, ext, lang };
 };
 
 export default read;
