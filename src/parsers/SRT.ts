@@ -2,12 +2,17 @@ import { Entry } from "../types";
 import { fromMilliseconds, toMilliseconds } from "./time";
 
 const fromSRT = (srt: string) => {
+  console.log(srt.trim().split(/(\r?\n){2,}/));
+
   return srt
     .trim()
-    .split(/(\r?\n){2,}/)
+    .split(/\r?\n\r?\n/)
+    .filter((line) => line.trim() !== "")
     .map((entry) => {
-      const [_, time, ...lines] = entry.split(/\r?\n/);
+      const [_, time, ...lines] = entry.trim().split(/\r?\n/);
       const [from, to] = time.split(" --> ");
+
+      console.log({ entry });
 
       return {
         from: toMilliseconds(from),
