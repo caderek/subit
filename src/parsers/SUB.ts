@@ -4,7 +4,7 @@ import { framesFromMilliseconds, framesToMilliseconds } from "./time";
 const fromSUB = (sub: string, frameRate = 23.98) => {
   const entries = sub
     .trim()
-    .split(/\r?\n/)
+    .split(/(\r?\n){1,}/)
     .filter((line) => line.trim() !== "")
     .map((line) => {
       const [rawFrom, rawTo] = line.match(/{\d+}/g) ?? [];
