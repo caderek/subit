@@ -5,7 +5,8 @@ const fromSRT = (srt: string) => {
   return srt
     .trim()
     .split(/\r?\n\r?\n/)
-    .map((entry: string) => {
+    .filter((entry) => entry.trim() !== "")
+    .map((entry) => {
       const [_, time, ...lines] = entry.split(/\r?\n/);
       const [from, to] = time.split(" --> ");
 

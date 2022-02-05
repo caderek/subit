@@ -5,6 +5,7 @@ const fromSUB = (sub: string, frameRate = 23.98) => {
   const entries = sub
     .trim()
     .split(/\r?\n/)
+    .filter((line) => line.trim() !== "")
     .map((line) => {
       const [rawFrom, rawTo] = line.match(/{\d+}/g) ?? [];
       const text = line.replace(/{\d+}/g, "").replace("|", "\n");

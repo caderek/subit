@@ -6,6 +6,7 @@ import write from "../io/write";
 import { fromSRT, toSRT } from "../parsers/SRT";
 import { fromSUB, toSUB } from "../parsers/SUB";
 import shiftSubtitles from "./shiftSubtitles";
+import detectFormat from "../parsers/detectFormat";
 
 type Options = {
   encoding: string;
@@ -18,6 +19,17 @@ type Options = {
 
 const main = (source: string, target: string | undefined, options: Options) => {
   const data = read(source, options.encoding);
+
+  if (data.ext !== ".srt" && data.ext !== ".sub") {
+    const ext = detectFormat(data.content);
+
+    if (ext === null) {
+      console.log("Unknown format.");
+      process.exit(1);
+    }
+
+    data.ext = ext;
+  }
 
   const targetFormat =
     options.extension ??
