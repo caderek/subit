@@ -1,8 +1,8 @@
-import { Entry } from "../types";
+import { Entry, Data } from "../types";
 import { fromMilliseconds, toMilliseconds } from "./time";
 
-const fromSRT = (srt: string) => {
-  return srt
+const fromSRT = (srt: string): Data => {
+  const entries = srt
     .trim()
     .split(/\r?\n\r?\n/)
     .filter((line) => line.trim() !== "")
@@ -13,18 +13,22 @@ const fromSRT = (srt: string) => {
       return {
         from: toMilliseconds(from),
         to: toMilliseconds(to),
-        text: lines.join("\n"),
+        lines: lines.map((text) => ({ text, style: {} })),
+        style: {},
+        position: undefined,
       };
     });
+
+  return { entries, style: {} };
 };
 
-const toSRT = (entries: Entry[]) => {
-  return entries
-    .map(({ from, to, text }, i) => {
+const toSRT = (data: Data) => {
+  return data.entries
+    .map(({ from, to, lines, position, style }, i) => {
       return [
         i + 1,
         `${fromMilliseconds(from)} --> ${fromMilliseconds(to)}`,
-        text,
+        ...lines.map((line) => line.text),
       ].join("\n");
     })
     .join("\n\n");

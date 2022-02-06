@@ -11,8 +11,12 @@
     "moduleResolution": "node",
     "forceConsistentCasingInFileNames": true,
     "importHelpers": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "allowJs": false
   },
   "include": ["src"],
-  "exclude": ["node_modules", "src/**/*.test.ts", "src/**/*.temp.ts"]
+  "exclude": ["node_modules", "src/**/*.test.ts", "src/**/*.temp.ts"],
+  "ts-node": {
+    "files": true
+  }
 }

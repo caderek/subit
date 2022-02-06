@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Entry } from "../types";
 
 const shiftSubtitles = (entries: Entry[], amount: number) => {
