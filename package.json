@@ -2,8 +2,10 @@
   "name": "subit",
   "author": "Maciej Caderek",
   "license": "ISC",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Subtitles shifter and converter",
+  "repository": "https://github.com/caderek/subit",
+  "homepage": "https://github.com/caderek/subit",
   "keywords": [
     "subtitles",
     "srt",
